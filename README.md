@@ -1,7 +1,4 @@
-Here’s a professional `README.md` template in English, suitable for introducing a project on platforms like GitHub/GitLab. Replace placeholders (e.g., `[Project]`) with your specifics:
-
-```markdown
-# [Project Name]
+# [Ai Paper]
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/project/releases)
