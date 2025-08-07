@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/project/releases)
 [![Build Status](https://img.shields.io/travis/yourusername/project/master.svg)](https://travis-ci.org/yourusername/project)
+🌍 Available in:  
+[日本語 (README-jp.md)](README-jp.md) | [العربية (README-ar.md)](README-ar.md) | [Español (README-es.md)](README-es.md) | [Português (README-pt.md)](README-pt.md)
 
 > A brief tagline describing your project's core purpose.
 
